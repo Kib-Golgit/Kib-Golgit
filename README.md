@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kib-Golgit
+- 👋 Hi, I’m @Kibatka 
 - 👀 I’m interested in ...improving myself and meeting people with like minds
 - 🌱 I’m currently learning ...Web design and development 
 - 💞️ I’m looking to collaborate on ...developing a standard  and effective websites
