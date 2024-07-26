@@ -1,0 +1,140 @@
+html
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:gray ;
+}
+header
+{
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+nav
+{
+    background-color: #444;
+    overflow: hidden;
+}
+nav ul
+{
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav ul li
+{
+    display: inline;
+}
+nav ul li a
+{
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+    display: inline-block;
+}
+nav ul li a:hover
+{
+    background-color: #555;
+}
+.product-section
+{
+    padding: 2rem;
+    background-color: black;
+    margin: 1rem;
+    border-radius: 8px;
+}
+.product-section h2{
+    text-align: center;
+    color: aqua;
+}
+.product-list
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:baseline;
+}
+.product-item
+{
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 1rem;
+    padding: 1rem;
+    width: 200px;
+    text-align: center;
+}
+.payment
+{
+    background: #555;
+    background-position: center;
+    padding: 1;
+    box-sizing: content-box;
+    box-shadow: #eee;
+    border: thick;
+    margin: 3px;
+}
+.buybutton
+{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    border: 10x solid gray;
+    background-color:brown;
+    z-index: 1;
+    cursor: pointer;
+}
+.buybutoon:hover
+{
+    background-color: white;
+            color:black;
+}
+footer
+{
+    display: flex;
+}
+.footerleft
+{
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.fmenutitle
+{
+    font-size: 16px;
+}
+.flist
+{
+    padding: 0;
+    list-style: none;
+}
+.flistitem
+{
+    margin-bottom: 10px;
+    color: gray;
+    cursor: pointer;
+}
+.footerrightmenu
+{
+    flex: 1;
+    padding: 2%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #333;
+    font-weight: 300;
+    font-size: large;
+    font-style: italic;
+}
+
