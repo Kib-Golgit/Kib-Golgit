@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @ luke Golgit
-- 👀 I’m interested in ...improving myself and meeting people with like minds
-- 🌱 I’m currently learning ...Web design and development 
-- 💞️ I’m looking to collaborate on ...developing a standard  and effective websites
-- 📫 How to reach me ...on telegram @golgit,emails Kigokatka@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kib-Golgit/Kib-Golgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+highly motivated and detail-oriented web developer with a passion for building innovative and user-friendly digital experiences. With years of experience in web development, I specialize in designing and developing responsive websites, web applications, and mobile applications using cutting-edge technologies such as HTML, CSS, JavaScript, and frameworks like React and Angular. Capable of mastering new technologies.
